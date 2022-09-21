@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63" started-at="2022-09-07T13:31:01 IST" finished-at="2022-09-07T13:31:01 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63" started-at="2022-09-07T13:31:01 IST" finished-at="2022-09-07T13:31:01 IST">
+      <class name="com.testng.TestNGConcept">
+        <test-method status="PASS" signature="testRun()[pri:0, instance:com.testng.TestNGConcept@4bb4de6a]" name="testRun" duration-ms="9" started-at="2022-09-07T13:31:01 IST" finished-at="2022-09-07T13:31:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRun -->
+      </class> <!-- com.testng.TestNGConcept -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
